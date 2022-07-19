@@ -1,0 +1,9 @@
+2020-01-01 15:20:07,588 - DEBUG - Start of program
+2020-01-01 15:20:07,588 - DEBUG - Start of factorial(5)
+2020-01-01 15:20:07,588 - INFO - i is 1, total is 1
+2020-01-01 15:20:07,589 - INFO - i is 2, total is 2
+2020-01-01 15:20:07,589 - INFO - i is 3, total is 6
+2020-01-01 15:20:07,589 - INFO - i is 4, total is 24
+2020-01-01 15:20:07,589 - INFO - i is 5, total is 120
+2020-01-01 15:20:07,589 - DEBUG - Return value is 120
+2020-01-01 15:20:07,604 - DEBUG - End of program
